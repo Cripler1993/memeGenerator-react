@@ -1,4 +1,4 @@
-# travel journal - первый проект на React, работа с динамическим рендерингом из массива, работа с пропсами
+# meme generator - проект на React, работа с хуками useState и useEffect, работа с контролируемым полем ввода, fetch запросом на сервер
 
 # ![Alt text](./src/img/Screenshot_1.png?raw=true "Проект")
 
