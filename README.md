@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# travel journal - первый проект на React, работа с динамическим рендерингом из массива, работа с пропсами
+
+# ![Alt text](./src/img/Screenshot_1.png?raw=true "Проект")
+
+# ![Alt text](./src/img/Screenshot_2.png?raw=true "Проект")
+
+# Технологии:
+
+# 1. HTML
+
+# 2. CSS
+
+# 3. JavaScript
+
+# 4. React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
